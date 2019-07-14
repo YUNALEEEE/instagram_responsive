@@ -1,0 +1,15 @@
+.img1{
+    width: 200px;
+    height: 200px;
+
+}
+.img2{
+    width: 200px;
+    height: 200px;
+    background-color: pink; rgba()
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
